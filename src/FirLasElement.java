@@ -73,5 +73,6 @@ public class FirLasElement {
 
         System.out.println(fi+"  "+la);
 
+
     }
 }
