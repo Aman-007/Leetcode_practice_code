@@ -3,7 +3,7 @@ import java.sql.SQLOutput;
 /* Find 1st and last occurrence of an element in sorted array.
 TC=O(logn)
 
-In this question we are applying Bianry search algorithm to achive optimal time.
+In this question we are applying Binary search algorithm to achieve optimal time.
 1st we are finding element, then we are comparing it with key. If
 i. element is equal to key then,save index and in case of first occurrence we are moving end so that we can move towards left side, where is 1st occureence.
     In case if we are searching for last occurrence then, we have to move right side so that we can reach to last occurrence.
