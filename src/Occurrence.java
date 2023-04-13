@@ -1,5 +1,5 @@
 
-import java.sql.SQLOutput;
+
 
 /* Find total occurrence of an element in sorted array.
 TC=O(logn)
