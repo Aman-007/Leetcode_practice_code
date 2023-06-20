@@ -16,7 +16,7 @@ public class LeetCodeMergedSorted {
         for (i = 0; i < ar.length; i++) {
             ar[i] = sc.nextInt();
         }
-        System.out.println("Number of element entred other than 0");
+        System.out.println("Number of element entreKd other than 0");
 
         int element_in_ar = sc.nextInt();
 
