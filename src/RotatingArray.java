@@ -27,7 +27,7 @@ public class RotatingArray {
         for(i=0;i<size-1;i++)
             arr[i+1]=ar[i];
         arr[0]=temp;
-
+// Solution can be optimized.
         ar=arr;
         System.out.println("\n");
         System.out.println("Array after rotation ");
